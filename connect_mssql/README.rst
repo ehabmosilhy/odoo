@@ -3,6 +3,8 @@ A very simple module to connect to MS SQL Server
 
 This module allows you to connect to MS SQL Server Database.
 
+Please watch the video at: https://youtu.be/xU6aPVthXhI
+
 Please note that this is a (quick and dirty) implementation; just to show how to connect to SQL server database without sticking to Odoo coding best practices.
 
 USAGE
