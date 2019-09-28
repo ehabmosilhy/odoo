@@ -2,7 +2,7 @@
 {
     'name': 'Connect to MS SQL Server Database'
     , 'version': '1.0.0'
-    , 'category': 'Tools'
+    , 'category': 'Extra Tools'
     , 'author': "Ehab Mosilhy"
     , 'license': 'LGPL-3'
     , 'depends': ['base']
